@@ -72,7 +72,10 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+![](https://raw.githubusercontent.com/s163555/readme_stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/s163555/readme_stats/master/generated/overview.svg#gh-light-mode-only)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s163555&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![](https://raw.githubusercontent.com/s163555/readme_stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/s163555/readme_stats/master/generated/languages.svg#gh-light-mode-only)
 
 ###
