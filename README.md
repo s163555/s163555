@@ -65,7 +65,7 @@
 
 ###
 
-<p align="left">Altium Designer, KiCAD, LTspice, QSPICE, OpenSCAD, Fusion 360, KLayout, Nanofabrication and misc. laboratory work</p>
+<p align="left">Altium Designer, KiCAD, LTspice, QSPICE, Silvaco TCAD, OpenSCAD, Fusion 360, KLayout, Nanofabrication and misc. laboratory work</p>
 
 ###
 
