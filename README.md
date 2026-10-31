@@ -72,10 +72,10 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-![](https://raw.githubusercontent.com/s163555/readme_stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/s163555/readme_stats/master/generated/overview.svg#gh-light-mode-only)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=s163555&theme=light&border_radius=4)
 
-![](https://raw.githubusercontent.com/s163555/readme_stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/s163555/readme_stats/master/generated/languages.svg#gh-light-mode-only)
+![Top Languages](https://ghstats.dev/api/langs?username=s163555&theme=light&max_langs=9&layout=horizontal_list)
+
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=s163555&theme=light&days=30&width=320&height=80)
 
 ###
