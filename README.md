@@ -72,10 +72,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-![GitHub Stats Card](https://ghstats.dev/api/card?username=s163555&theme=light&border_radius=4)
-
-![Top Languages](https://ghstats.dev/api/langs?username=s163555&theme=light&max_langs=9&layout=horizontal_list)
-
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=s163555&theme=light&days=30&width=320&height=80)
+![](https://raw.githubusercontent.com/s163555/readme_stats/generated/overview.svg)
+![](https://raw.githubusercontent.com/s163555/readme_stats/generated/languages.svg)
 
 ###
