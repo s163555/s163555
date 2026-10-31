@@ -23,7 +23,10 @@
 
 ###
 
-<p align="left">I am Jeppe, Electrical Engineer, and in my free time I like music, video games and exercise</p>
+<p align="left">I am **Jeppe**, Electrical Engineering graduate and PhD Researcher pushing the boundaries of embedded systems engineering.</p>
+<p align="left">**Background:** Low-level firmware development, toolchains, hardware/software co-design and nanofabrication.</p>
+<p align="left">**Current focus:** Investigating open-source tooling for digital integrated circuits.</p>
+<p align="left">**Off the clock:** Laying down basslines, exploring open-world CRPGs, and chasing personal records in weight lifting.</p>
 
 ###
 
